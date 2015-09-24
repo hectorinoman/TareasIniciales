@@ -17,3 +17,7 @@ Tareas Iniciales:
 *Abre una cuenta en c9.io (cloud9). Vincula tu cuenta de GitHub con c9.
 *Crea un tutorial - escríbelo en formato Markdown 
 *Usa el proyecto en c9.io para familiarizarte con c9
+
+
+Página principal de Sistemas y Tecnologías Web: http://hectorinoman.github.io/
+Página de la práctica Tareas Iniciales: http://hectorinoman.github.io/TareasIniciales/
