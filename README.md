@@ -5,9 +5,9 @@ Sistemas y Tecnologias Web
 Tareas Iniciales:
 -------------
 
--Darse de alta en la comunidad Google + 
+* Darse de alta en la comunidad Google + 
 
--Instala node.JS
+* Instala node.JS
 
 *Comprueba que npm funciona
 
