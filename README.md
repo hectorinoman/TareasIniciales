@@ -9,25 +9,25 @@ Tareas Iniciales:
 
 * Instala node.JS
 
-*Comprueba que npm funciona
+* Comprueba que npm funciona
 
-*Instala express
+* Instala express
 
-*Pon tu foto en tu perfil del campus virtual
+* Pon tu foto en tu perfil del campus virtual
 
-*Instala Git. Si estás en Windows sigue las instrucciones en GitHub para Windows
+* Instala Git. Si estás en Windows sigue las instrucciones en GitHub para Windows
 
-*Abre una cuenta en GitHub si no la tienes
+* Abre una cuenta en GitHub si no la tienes
 
-*Si dispones de un Mac o Windows instala GitHub App
+* Si dispones de un Mac o Windows instala GitHub App
 
-*Instala Atom, el editor desarrollado por GitHub
+* Instala Atom, el editor desarrollado por GitHub
 
-*Abre una cuenta en c9.io (cloud9). Vincula tu cuenta de GitHub con c9.
+* Abre una cuenta en c9.io (cloud9). Vincula tu cuenta de GitHub con c9.
 
-*Crea un tutorial - escríbelo en formato Markdown 
+* Crea un tutorial - escríbelo en formato Markdown 
 
-*Usa el proyecto en c9.io para familiarizarte con c9
+* Usa el proyecto en c9.io para familiarizarte con c9
 
 
 
